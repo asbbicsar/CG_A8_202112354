@@ -4,7 +4,6 @@
 #include <vector>
 #include <glm/glm.hpp>
 
-// OBJ 파싱 결과를 저장할 구조체
 struct Vector3
 {
     float x, y, z;
